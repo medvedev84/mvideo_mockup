@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVideoMockup</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="auth_username">Username</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_vehicle">Vehicle number</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="details_address">Address:</string>
+    <string name="details_completion">Completion</string>
+    <string name="details_notes">Notes:</string>
+    <string name="details_order_stub">Order №12345</string>
+    <string name="details_address_stub">2, Radialnaya 9 St., Moscow 115404, Russia</string>
+    <string name="details_status_stub">Status: FAILED</string>
+    <string name="details_deadline_stub">until 13:30</string>
+    <string name="details_total_stub">12 000 RUB</string>
+    <string name="details_notes_stub">Some notes hee for selected order</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="dialog_select_status_title">Change status</string>
+    <string name="dialog_confirm_title">Confirmation</string>
+    <string name="dialog_confirm_message">Do you really want to change status?</string>
+
+    <string name="dialog_select_delay_title">Select delay</string>
+    <string name="dialog_reject_title">Reject order</string>
+    <string name="dialog_reject_body">Please, describe the reason of order rejecting</string>
+
+    <string name="profile_logout_btn">Logout</string>
+
+    <string name="map_show_routes_btn">Show routes</string>
+
+    <string name="list_row_details_status">Status:</string>
+
+    <string name="dialog_select_start_title">Start point</string>
+    <string name="dialog_select_start_body">Please, fill in start address</string>
+    <string name="dialog_select_start_hint">12/3, Kutuzovsky prospekt, Moscow 121248, Russia</string>
+
+    <string name="dialog_select_end_title">End point</string>
+    <string name="dialog_select_end_body">Please, fill in destination address</string>
+    <string name="dialog_select_end_hint">2, Radialnaya 9 St., Moscow 115404, Russia</string>
+
+    <string name="action_bar_data">14.04.2014</string>
+
+    <string name="map_routes">Routes</string>
+    <string name="map_clear">X</string>
+
+    <string-array name="menu_titles_array">
+        <item>Addresses</item>
+        <item>Map</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string-array name="dialog_select_status_array">
+        <item>FAILED</item>
+        <item>DELIVERED</item>
+        <item>IN PROGRESS</item>
+        <item>PENDING</item>
+        <item>REJECT</item>
+    </string-array>
+
+    <string-array name="dialog_select_delay_array">
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>45 min</item>
+        <item>1 hour</item>
+        <item>1 hour 15 min</item>
+        <item>1 hour 30 min</item>
+        <item>1 hour 45 min</item>
+        <item>2 hours</item>
+        <item>2 hours 15 min</item>
+        <item>2 hours 30 min</item>
+        <item>2 hours 45 min</item>
+        <item>3 hours</item>
+        <item>3 hours 15 min</item>
+        <item>3 hours 30 min</item>
+        <item>3 hours 45 min</item>
+        <item>4 hours</item>
+    </string-array>
+
+</resources>
